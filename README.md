@@ -1,4 +1,4 @@
-Algorithms in this repository: QSVM and VQC
+**Algorithms in this repository**: QSVM and VQC
 1. QSVM:
      1. PD_Using_SVM_vs_QSVM.ipynb: Comparing classical SVM and QSVM approaches on a Parkinson's Disease dataset, highlighting performance differences.
      2. QSVM_Ad_hoc.ipynb: This notebook demonstrates QSVM capabilities on synthetic datasets, showcasing how quantum kernels can capture complex patterns.
