@@ -10,27 +10,27 @@ This repository focuses on quantum machine learning algorithms, specifically Qua
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="#">PD_Using_SVM_vs_QSVM.ipynb</a></td>
+    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QSVM/PD_Using_SVM_vs_QSVM.ipynb">PD_Using_SVM_vs_QSVM.ipynb</a></td>
     <td>Comparing classical SVM and QSVM approaches on a Parkinson's Disease dataset, highlighting performance differences.</td>
   </tr>
   <tr>
-    <td><a href="#">QSVM_Ad_hoc.ipynb</a></td>
+    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QSVM/QSVM_Ad_hoc.ipynb">QSVM_Ad_hoc.ipynb</a></td>
     <td>Demonstrates QSVM capabilities on synthetic datasets, showcasing how quantum kernels can capture complex patterns.</td>
   </tr>
   <tr>
-    <td><a href="#">QSVM_California_Housing_Quantum_Kernel.ipynb</a></td>
+    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QSVM/QSVM_California_Housing_Quantum_Kernel.ipynb">QSVM_California_Housing_Quantum_Kernel.ipynb</a></td>
     <td>Applying QSVM to the California Housing dataset, illustrating regression tasks using quantum kernels.</td>
   </tr>
   <tr>
-    <td><a href="#">QSVM_Diabetes.ipynb</a></td>
+    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QSVM/QSVM_Diabetes.ipynb">QSVM_Diabetes.ipynb</a></td>
     <td>Utilizing QSVM for predicting diabetes progression, comparing results with classical methods.</td>
   </tr>
   <tr>
-    <td><a href="#">QSVM_Iris_Kernels.ipynb</a></td>
+    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QSVM/QSVM_Iris_Kernels.ipynb">QSVM_Iris_Kernels.ipynb</a></td>
     <td>Exploring QSVM classification on the Iris dataset, analyzing the impact of different quantum kernel choices.</td>
   </tr>
   <tr>
-    <td><a href="#">QSVM_wine_dataset.ipynb</a></td>
+    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QSVM/QSVM_wine_dataset.ipynb">QSVM_wine_dataset.ipynb</a></td>
     <td>Implementing QSVM on the Wine dataset, emphasizing feature selection and kernel optimization.</td>
   </tr>
 </table>
@@ -43,7 +43,7 @@ This repository focuses on quantum machine learning algorithms, specifically Qua
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/VQC/VQC_Adhoc.ipynb">VQC_Adhoc.ipynb</a></td>
+    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/VQC/VQC_Ad_hoc.ipynb">VQC_Adhoc.ipynb</a></td>
     <td>Implementation of Variational Quantum Classifier on synthetic datasets, demonstrating fundamental VQC concepts.</td>
   </tr>
 </table>
