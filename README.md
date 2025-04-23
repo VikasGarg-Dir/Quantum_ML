@@ -46,6 +46,7 @@ This repository focuses on quantum machine learning algorithms, specifically Qua
     <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/VQC/VQC_Adhoc.ipynb">VQC_Adhoc.ipynb</a></td>
     <td>Implementation of Variational Quantum Classifier on synthetic datasets, demonstrating fundamental VQC concepts.</td>
   </tr>
+</table>
 
 ## 📊 Research Focus
 
