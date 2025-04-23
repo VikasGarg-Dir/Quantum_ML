@@ -1,6 +1,6 @@
 # 🧪 Quantum Machine Learning Implementations
 
-This repository focuses on quantum machine learning algorithms, specifically Quantum Support Vector Machines (QSVM) and Variational Quantum Classifiers (VQC).
+This repository focuses on quantum machine learning algorithms, specifically Quantum Support Vector Machines (QSVM), Variational Quantum Classifiers (VQC), and Quantum k-Nearest Neighbors (QKNN).
 
 ## 🔬 QSVM Implementations
 
@@ -45,6 +45,19 @@ This repository focuses on quantum machine learning algorithms, specifically Qua
   <tr>
     <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/VQC/VQC_Ad_hoc.ipynb">VQC_Adhoc.ipynb</a></td>
     <td>Implementation of Variational Quantum Classifier on synthetic datasets, demonstrating fundamental VQC concepts.</td>
+  </tr>
+</table>
+
+## 🧑‍🔬 QKNN Implementations
+
+<table>
+  <tr>
+    <th>Notebook</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QKNN/QKNN_QuantumDistance.ipynb">QKNN_QuantumDistance.ipynb</a></td>
+    <td>Implementing Quantum k-Nearest Neighbors using quantum circuits for distance computation and classification.</td>
   </tr>
 </table>
 
