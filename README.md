@@ -27,7 +27,7 @@ This repository focuses on quantum machine learning algorithms, specifically Qua
   </tr>
   <tr> 
     <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QSVM/QSVM_Iris.ipynb">QSVM_Iris.ipynb</a></td> 
-    <td>Applies QSVM to the Iris dataset, demonstrating quantum kernel-based classification on a standard multiclass dataset.</td>
+    <td>Applying QSVM to the Iris dataset, demonstrating quantum kernel-based classification on a standard multiclass dataset.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QSVM/QSVM_Iris_Kernels.ipynb">QSVM_Iris_Kernels.ipynb</a></td>
