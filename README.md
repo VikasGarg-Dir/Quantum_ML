@@ -63,6 +63,9 @@ This repository focuses on quantum machine learning algorithms, specifically Qua
     <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QKNN/QKNN_QuantumDistance.ipynb">QKNN_QuantumDistance.ipynb</a></td>
     <td>Implementing Quantum k-Nearest Neighbors using quantum circuits for distance computation and classification.</td>
   </tr>
+  <tr> 
+    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QKNN/QKNN_CythonFidelity.ipynb">QKNN_CythonFidelity.ipynb</a></td>          <td>Utilizes a Cython-accelerated fidelity function as a custom distance metric in a k-NN classifier to distinguish between separable and entangled quantum states, enhancing computational efficiency for large-scale quantum datasets.</td>
+  </tr>
 </table>
 
 ## 📊 Research Focus
