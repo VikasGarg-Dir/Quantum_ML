@@ -21,4 +21,8 @@ This repository focuses on quantum machine learning algorithms, specifically Qua
     <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/Others/PD_QSVM.ipynb">PD_QSVM.ipynb</a></td>
       <td>Parkinsons Disease using QSVM</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/Others/PD_VQC.ipynb">PD_VQC.ipynb</a></td>
+      <td>Parkinsons Disease using VQC</td>
+  </tr>
 </table>
