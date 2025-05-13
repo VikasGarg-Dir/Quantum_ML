@@ -17,4 +17,8 @@ This repository focuses on quantum machine learning algorithms, specifically Qua
     <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/Others/Quantum_state_simulation_and_visualization.ipynb">Quantum_state_simulation_and_visualization.ipynb</a></td>
     <td>Quantum state simulation and visualization using Aer's 'qasm_simulator'.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/Others/PD_QSVM.ipynb">PD_QSVM.ipynb</a></td>
+      <td>Parkinsons Disease using QSVM</td>
+  </tr>
 </table>
