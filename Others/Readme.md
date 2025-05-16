@@ -2,6 +2,12 @@
 
 This repository focuses on quantum machine learning algorithms, specifically Quantum Support Vector Machines (QSVM), Variational Quantum Classifiers (VQC), and Quantum k-Nearest Neighbors (QKNN).
 
+## Core Packages used with versions:
+1. qiskit==0.43.2
+2. qiskit-machine-learning==0.6.0
+3. qiskit-algorithms==0.2.0
+4. pylatexenc
+
 ## 🔬 Quantum Notebooks Implementations
 
 <table>
