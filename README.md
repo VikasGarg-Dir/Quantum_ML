@@ -57,7 +57,7 @@ This repository focuses on quantum machine learning algorithms, specifically Qua
 <table>
   <tr>
     <th>Notebook</th>
-    <th>         Description</th>
+    <th>        Description</th>
   </tr>
   <tr>
     <td><a href="https://github.com/VikasGarg-Dir/Quantum_ML/blob/main/QKNN/QKNN_QuantumDistance.ipynb">QKNN_QuantumDistance.ipynb</a></td>
