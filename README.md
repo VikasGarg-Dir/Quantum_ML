@@ -1,4 +1,4 @@
-# 🧪 Quantum   Machine Learning Implementations
+# 🧪 Quantum  Machine Learning Implementations
 
 This repository focuses on quantum machine learning algorithms, specifically Quantum Support Vector Machines (QSVM), Variational Quantum Classifiers (VQC), and Quantum k-Nearest Neighbors (QKNN).
 
