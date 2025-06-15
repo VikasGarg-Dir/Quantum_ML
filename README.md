@@ -6,7 +6,7 @@ This repository focuses on quantum machine learning algorithms, specifically Qua
 
 <table>
   <tr>
-    <th>Notebook</th>
+    <th>     Notebook</th>
     <th>Description</th>
   </tr>
   <tr>
